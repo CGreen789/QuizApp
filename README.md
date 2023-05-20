@@ -1,3 +1,25 @@
+# Week 2 Hackathon/Fetchathon - 🤔 QUIZ APP 🤔
+
+Week 2 was a blur of functions and access data from an API. I had the pleasure of working with Ben and Bianca this week - we clicked quickly and supported each other through the process. 
+
+We chose to create a quiz app using the Quiz question API (https://opentdb.com/api_config.php) and planned that our MVP would allow the user to:
+  - Choose a number of questions
+  - Choose a category
+  - Select the difficulty.
+
+We took some time to get the correct data out from the API and this impacted our ability to move forwards with the MVP. We scaled back the MVP and took out some options for the user...!
+
+Overall a successful day seeing as we'd obly just finished week 2.
+
+I'd like to revisit this and take some notes on what I could do to improve/build functionality.
+
+
+
+
+
+___
+## School of Code's instructions
+
 # Fetch Hackathon
 
 Today, we will be using our newfound skills to make apps that request data from a server.
