@@ -9,7 +9,7 @@ We chose to create a quiz app using the Quiz question API (https://opentdb.com/a
 
 We took some time to get the correct data out from the API and this impacted our ability to move forwards with the MVP. We scaled back the MVP and took out some options for the user...!
 
-Overall a successful day seeing as we'd obly just finished week 2.
+Overall a successful day seeing as we'd only just finished week 2.
 
 I'd like to revisit this and take some notes on what I could do to improve/build functionality.
 
